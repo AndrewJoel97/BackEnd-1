@@ -1,0 +1,4 @@
+# Crear runtime.txt con: python-3.11.7
+git add runtime.txt requirements.txt
+git commit -m "Force Python 3.11 and fix pandas"
+git push
